@@ -1,0 +1,106 @@
+/* 
+    Created on : Jun 10, 2016, Jun 10, 2016 8:24:07 PM
+    Author     : Teju
+*/
+header {
+    float: top;     
+    background-color:   threedface;
+
+    font-style: inherit ; font-size: 17px; font-family: monospace;                  
+    text-align:  center;
+
+    color: crimson
+
+}
+
+aside {
+    line-height:40px; background-image: url("images/bg_pic1.jpg"); color :darkred; height: fit-content;
+    width:200px;    float:left;    padding:20px 20px;    font-style:  initial 
+}
+section {
+    background-color:  aliceblue ;
+    width:700px;  height:  400px ;
+    padding-right: 120px;
+    padding-left: 350px ; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-style:  inherit ; font-size: 16px ; font-family:  monospace ; color: midnightblue ;
+
+}
+
+#lec_section 
+{
+    margin-left: 300px; background-color:  aliceblue ; width:1050px;  height: 700px ; padding-left: 300px ; padding-top: 50px; padding-bottom: 50px;   font-style: initial ; font-size: 25px ; font-family:  monospace ; color: teal ;}
+
+#ass_section
+{
+        margin-left: 250px;
+    background-color:  aliceblue ;
+    width:1050px;  height: 700px ;
+
+    padding-left: 400px ; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-style: initial ; font-size: 25px ; font-family:  monospace ; color: teal ;
+
+}
+
+footer { 
+    background-color:black;
+    float: bottom;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding-top: 15px ; padding-bottom: 15px ; 
+    font-size: 20px;
+
+}
+body{
+     background-image:  url("images/bg_pic122.jpg");
+}
+#videos
+{
+    float:  right;
+    padding-left: 10px;
+    font-family:  monospace; font-size: 20px ; color: crimson ; font-style:  inherit;
+
+}
+
+a:link { color: steelblue ; }
+a:hover { color: salmon ; }
+a:active { color: orangered ; }
+
+article
+{
+
+    background-color:  aliceblue ;
+    width:700px;  height:  200px ;
+
+    padding-left: 350px ; 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-style:  inherit ; font-size: 14px ; font-family:  monospace ; color:  darkred ;
+}
+
+#login
+{
+    
+    background-color: navy ;
+    width:600px;  height:  200px ;
+    float:  right ; 
+    padding-left: 10px ; 
+    
+    text-align:  center;
+    font-style:  inherit ; font-size: 16px ; font-family:  monospace ; color:  seashell ;
+
+}
+
+
+ #signup_form
+ {
+     a:hover
+         {
+             background-color: red;
+
+     }
+ }
